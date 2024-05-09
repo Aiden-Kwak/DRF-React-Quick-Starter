@@ -19,7 +19,8 @@
 2. drf, react frame
 3. react post, get axios example
 4. react folder structure ? Kwaks personal taste
-5. CORS problem solving ? django-cors-header, react setupProxy.js
+5. CORS problem solving ? django-cors-header, react http-proxy-middleware module with setupProxy.js
+6. react-cookie to send csrftoken with POST
 ```
 
 <h2>How to start?</h2>
@@ -27,8 +28,9 @@
 ```bash
 (in /backend)
 
-$ pip install -r requirements.txt
+$ python3 -m venv venv
 $ . venv/bin/activate
+$ pip install -r requirements.txt
 $ python manage.py runserver
 
 (in /frontend/vite-project)
