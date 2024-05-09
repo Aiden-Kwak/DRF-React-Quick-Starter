@@ -1,1 +1,1 @@
-export {default as testForm} from './testForm.jsx';
+export {default as TestForm} from './testForm.jsx';

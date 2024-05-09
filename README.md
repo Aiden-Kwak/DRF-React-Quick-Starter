@@ -12,6 +12,16 @@
   <img src="https://img.shields.io/badge/npm-purple?style=flat-square&logo=npm&logoColor=white"/></a>
 </div>
 
+<h2>What it prepared?</h2>
+
+```bash
+1. requirements.txt
+2. drf, react frame
+3. react post, get axios example
+4. react folder structure ? Kwaks personal taste
+5. CORS problem solving ? django-cors-header, react setupProxy.js
+```
+
 <h2>How to start?</h2>
 
 ```bash
